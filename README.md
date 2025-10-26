@@ -13,11 +13,14 @@ Explore my projects — if you’ve got thoughts, I’d love to hear them.
 <h2 align="center">Links</h2>
 
 <p align="center">
+  <a href="https://ko-fi.com/martontorner">
+    <img alt="Ko-fi" src="https://shields.io/badge/buy_me_a_coffee-FF5F5F?logo=ko-fi&logoColor=fff&style=for-the-badge" />
+  </a>
   <a href="https://gravatar.com/martontorner">
     <img alt="Gravatar" src="https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff&style=for-the-badge" />
   </a>
   <a href="https://buymeacoffee.com/martontorner">
-    <img alt="Buy me a coffee" src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img alt="Buy me a coffee" src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?logo=buy-me-a-coffee&logoColor=000&style=for-the-badge" />
   </a>
 </p>
 
