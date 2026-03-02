@@ -26,7 +26,7 @@ jobs:
             dist/github-contribution-graph-snake-dark.svg?palette=github-dark
 
       - name: Push SVG
-        uses: crazy-max/ghaction-github-pages@v4.2.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: snk
           build_dir: dist
